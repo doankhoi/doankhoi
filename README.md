@@ -4,7 +4,7 @@
 
 # Hi! 👋 I'm [Khoi Doan (Osbkca)](https://twitter.com/osbkca) 💻
 
-I'm a Web Developer helping others become one too.
+I'm a Husband, a Software Engineer. Building internet products.
 
 ### Let's Connect 🔗
 
