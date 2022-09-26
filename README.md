@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/followers/doankhoi?label=GitHub%20Followers)](https://github.com/doankhoi)
 
-# Hi! 👋 I'm [Khoi Doan (Osbkca)](https://markodenic.com) 💻
+# Hi! 👋 I'm [Khoi Doan (Osbkca)](https://twitter.com/osbkca) 💻
 
 I'm a Web Developer helping others become one too.
 
