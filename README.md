@@ -1,16 +1,18 @@
-### Hi there 👋
+![Repository Banner](banner.jpeg)
 
-<!--
-**doankhoi/doankhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/github/followers/doankhoi?label=GitHub%20Followers)](https://github.com/doankhoi)
 
-Here are some ideas to get you started:
+# Hi! 👋 I'm [Khoi Doan (Osbkca)](https://markodenic.com) 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Web Developer helping others become one too.
+
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/doan-ngoc-khoi/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/osbkca)
+
+
+### Projects
+- [cohost.ai](https://www.cohost.ai/)
+- [lixinft.me](https://lixinft.me/)
+- [xclippy.com](https://xclippy.com/)
