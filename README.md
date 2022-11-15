@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/followers/doankhoi?label=GitHub%20Followers)](https://github.com/doankhoi)
 
-# Hi! 👋 I'm [Khoi Doan (Osbkca)](https://twitter.com/osbkca) 💻
+# Hi! 👋 I'm [Khoi Doan (Osbkca)](https://osbkca.me/) 💻
 
 I'm a Husband, a Software Engineer. Building internet products.
 
